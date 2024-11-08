@@ -1,5 +1,6 @@
-Warm Regards 🍂
+warm-regards 🍂
 ```
+helios@github:~$ warm-regards
  ___  ___      ___     
 |\  \|\  \    |\  \    
 \ \  \\\  \   \ \  \   
